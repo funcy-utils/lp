@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: b1547e1ec9466fd027ca33b40ecc02aed1819a83596aa6f224a1f9a58f71751d
+-- hash: 8e3724b1c0259071bddc160ef2ddc77500a47706fea2a1c1000d073327cc4d4e
 
 name:           lp
 version:        0.1.0.0
@@ -26,7 +26,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Lp
   other-modules:
       Paths_lp
   hs-source-dirs:

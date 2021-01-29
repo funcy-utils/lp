@@ -1,4 +1,6 @@
 module Main where
 
+import Lp
+
 main :: IO ()
-main = undefined
+main = run
